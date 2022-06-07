@@ -1,0 +1,1 @@
+The current images are only intended for use as placeholders until we get proper resources in place.
