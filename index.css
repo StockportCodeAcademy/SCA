@@ -5,7 +5,7 @@
     margin: 24px 0 12px 0;
 }
 
-/* navigation links formatting */
+/* navbar formatting */
 .navbar{
     position: top fixed absolute;
     text-align: right;
@@ -113,20 +113,21 @@ h3{
 }
 
 .link:hover{
-    color:white;
-    background-color: darkgrey;
+    color: white;
+    background-color: black;
     font-size: 18px;
     text-shadow: black 2px 2px 6px;
 }
 
 .link2{
-    color:lightblue;
+    color: lightblue;
     font-size: 12px;
     text-shadow: black 0px 1px 4px;
 }
 
 .link2:hover{
     color: white;
+    background-color: black;
     font-size: 14px;
     text-shadow: black 2px 2px 6px;
 }
@@ -144,7 +145,7 @@ button:hover {
   opacity: 0.8;
 }
 
-/*flashy fx */
+/* flashy fx */
 marquee{
     style: scrollamount="100" direction="left";
     position: center;
