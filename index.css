@@ -1,7 +1,7 @@
 /* avatar position */
 .imgcontainer {
-    max-width: 90px;
-    text-align: left;
+    max-width: 25%;
+    text-align: right;
     margin: 24px 0 12px 0;
 }
 
@@ -87,21 +87,22 @@ body{
 }
 
 h1{
-    color: limegreen;
+    color: lightblue;
     background-color: rgb(30, 30, 30);
-    width: 100% auto;
+    width: auto;
     text-align: center;
     padding: 10px;
 }
 
 h2{
-    color:limegreen;
+    color: lightblue;
     background-color: rgb(30, 30, 30);
     text-align: center;
     padding: 1%;
 }
 
 h3{
+   color: lightblue;
    font-size: 16px;
    padding: 1%;
 }
