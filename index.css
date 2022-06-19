@@ -114,6 +114,7 @@ h3{
 
 .link:hover{
     color:white;
+    background-color: darkgrey;
     font-size: 18px;
     text-shadow: black 2px 2px 6px;
 }
