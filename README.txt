@@ -46,4 +46,17 @@ Planned changes:
 
 
 
+10.06.2022
+PCA0.04
 
+Corrected multiple SCA-PCA instances
+
+==========
+==========
+
+
+
+23.06.2022
+PCA0.05
+
+couple of typo fixes and readme update
